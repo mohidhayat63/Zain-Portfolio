@@ -28,10 +28,10 @@ function Contact() {
   };
 
   const socialLinks = [
-    { icon: '💼', label: 'LinkedIn', link: 'https://www.linkedin.com/in/rao-mehmood-0405861b5?utm_source=share_via&utm_content=profile&utm_medium=member_android' },
-    { icon: '🐙', label: 'GitHub', link: 'https://github.com/Mehmoodrao' },
-    { icon: '🐦', label: 'Twitter', link: 'https://x.com/rao_mehmoo76588' },
-    { icon: '📧', label: 'Email', link: 'mailto:mehmoodrao35@gmail.com' }
+    { icon: '💼', label: 'LinkedIn', link: 'https://www.linkedin.com/in/mohid-hayat-485890275?utm_source=share_via&utm_content=profile&utm_medium=member_ios' },
+    { icon: '🐙', label: 'GitHub', link: 'https://github.com/mohidhayat63' },
+    { icon: '🐦', label: 'Twitter', link: 'https://x.com/mohidhayat_?s=11' },
+    { icon: '📧', label: 'Email', link: 'mailto:mohidhayat63@gmail.com' }
   ];
 
   return (
@@ -72,21 +72,21 @@ function Contact() {
               <span className="detail-icon">📍</span>
               <div>
                 <p className="detail-label">Location</p>
-                <p className="detail-value">Islamabad, Pakistan</p>
+                <p className="detail-value">Sargodha, Pakistan</p>
               </div>
             </div>
             <div className="detail-item">
               <span className="detail-icon">📱</span>
               <div>
                 <p className="detail-label">Phone</p>
-                <p className="detail-value">+92 316 6611737</p>
+                <p className="detail-value">+92 323 3646991</p>
               </div>
             </div>
             <div className="detail-item">
               <span className="detail-icon">📧</span>
               <div>
                 <p className="detail-label">Email</p>
-                <p className="detail-value">mehmoodrao35@gmail.com</p>
+                <p className="detail-value">mohidhayat63@gmail.com</p>
               </div>
             </div>
           </div>

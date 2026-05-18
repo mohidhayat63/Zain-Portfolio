@@ -10,62 +10,32 @@ function Experience() {
       duration: '2023 - 2024',
       description: 'Started career learning modern web development practices.'
     },
-    {
-      id: 2,
-      position: 'Community Manager',
-      company: 'Sparx Mobiles',
-      duration: '2022 - 2023',
-      description: 'Maintained multiple customer queries at once.'
-    },
-    {
-      id: 3,
-      position: 'Social Media Manager',
-      company: 'Kit And Kaboodle',
-      duration: '2021 - 2022',
-      description: 'Maintained multiple customer queries at once.'
-    },
-    {
-      id: 4,
-      position: 'Graphic Designer',
-      company: 'Pixel Play Hub',
-      duration: '2018 - 2021',
-      description: 'Graphic designer for key projects, mentored junior designers.'
-    },
+  
     
   
   ];
 
   const qualifications = [
-      {
-      id: 1,
-      degree: 'AI Robotics',
-      school: 'NAVTTC Pakistan',
-      year: '2026-Present'
-    },
+    
     {
-      id: 2,
+      id: 1,
       degree: 'Bachelor of Science in Computer Science',
       school: 'National University of Modern Languages',
       year: '2023-Present'
     },
     {
-      id: 3,
+      id: 2,
       degree: 'Intermediate',
       school: 'Air Base Inter College Mushaf, Sargodha',
       year: '2020-2022'
     },
     {
-      id: 4,
+      id: 3,
       degree: 'Matriculation',
       school: 'Air Base Inter College Mushaf, Sargodha',
       year: '2018-2020'
     },
-    {
-      id: 5,
-      degree: 'Graphic designing course',
-      school: 'Logix College, Sargodha',
-      year: '2018'
-    }
+    
   ];
 
   return (
