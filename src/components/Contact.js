@@ -28,10 +28,10 @@ function Contact() {
   };
 
   const socialLinks = [
-    { icon: '💼', label: 'LinkedIn', link: 'https://www.linkedin.com/in/mohid-hayat-485890275?utm_source=share_via&utm_content=profile&utm_medium=member_ios' },
+    { icon: '💼', label: 'LinkedIn', link: '#' },
     { icon: '🐙', label: 'GitHub', link: 'https://github.com/mohidhayat63' },
-    { icon: '🐦', label: 'Twitter', link: 'https://x.com/mohidhayat_?s=11' },
-    { icon: '📧', label: 'Email', link: 'mailto:mohidhayat63@gmail.com' }
+    { icon: '🐦', label: 'Twitter', link: '#' },
+    { icon: '📧', label: 'Email', link: 'mailto:razazain905@gmail.com' }
   ];
 
   return (
@@ -79,14 +79,14 @@ function Contact() {
               <span className="detail-icon">📱</span>
               <div>
                 <p className="detail-label">Phone</p>
-                <p className="detail-value">+92 323 3646991</p>
+                <p className="detail-value">+92 302 0111809</p>
               </div>
             </div>
             <div className="detail-item">
               <span className="detail-icon">📧</span>
               <div>
                 <p className="detail-label">Email</p>
-                <p className="detail-value">mohidhayat63@gmail.com</p>
+                <p className="detail-value">razazain905@gmail.com</p>
               </div>
             </div>
           </div>

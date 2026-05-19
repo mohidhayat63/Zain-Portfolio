@@ -7,8 +7,8 @@ function Introduction() {
       <div className="intro-content">
         <div className="intro-text">
           <h2 className="greeting">Hello, I'm</h2>
-          <h1 className="name">Mohid Hayat</h1>
-          <p className="title">Full Stack Developer & AI Engineer</p>
+          <h1 className="name">Zain Raza</h1>
+          <p className="title">Web Developer</p>
           <p className="description">
             I'm passionate about building beautiful and functional web applications. 
             With expertise in modern web technologies, I create solutions that make a difference.
@@ -20,7 +20,7 @@ function Introduction() {
         </div>
         <div className="intro-image">
           <div className="avatar-placeholder">
-            <img src="./Mohid.jpeg" alt="Mohid Hayat" className="avatar-img" />
+            <img src="./Zain.jpeg" alt="Zain" className="avatar-img" />
           </div>
         </div>
       </div>

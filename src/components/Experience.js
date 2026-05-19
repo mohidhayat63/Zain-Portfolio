@@ -5,10 +5,10 @@ function Experience() {
   const experiences = [
       {
       id: 1,
-      position: 'Junior Developer',
-      company: 'Fore Brothers',
-      duration: '2023 - 2024',
-      description: 'Started career learning modern web development practices.'
+      position: 'AI Developer',
+      company: 'Freelance',
+      duration: '2024 - 2025',
+      description: 'Started Model Training and Validation.'
     },
   
     
@@ -20,7 +20,7 @@ function Experience() {
     {
       id: 1,
       degree: 'Bachelor of Science in Computer Science',
-      school: 'National University of Modern Languages',
+      school: 'University of Lahore, Sargodha Campus',
       year: '2023-Present'
     },
     {
